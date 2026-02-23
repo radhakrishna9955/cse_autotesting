@@ -13,9 +13,9 @@ Cseadd c = new Cseadd();
 		assertEquals(5,result);
 	}
 
-//	@Test
-//	void csetest() {
-//		int result = c.mul(2,3);
-//		assertEquals(6,result);
-//	}
+	@Test
+	void csetest() {
+		int result = c.mul(2,3);
+		assertEquals(6,result);
+	}
 }
